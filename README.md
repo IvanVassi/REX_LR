@@ -1,6 +1,6 @@
 # REX_LR
 
-Very simple REX learning rate scheduler based on paper “REX: Revisiting Budgeted Training with an Improved Schedule.” Proceedings of Machine Learning and Systems 4 (2022): 64–76.
+Very simple REX learning rate scheduler based on paper “REX: Revisiting Budgeted Training with an Improved Schedule"[1].
 
 Usage 
 ```
