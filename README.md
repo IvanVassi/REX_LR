@@ -1,4 +1,4 @@
-# REX_LR realisation based on the paper "REX: Revisiting Budgeted Training with an Improved Schedule"
+# REX_LR learning rate scheduler
 
 Very simple REX learning rate scheduler based on paper “REX: Revisiting Budgeted Training with an Improved Schedule" [1].
 
