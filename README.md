@@ -15,5 +15,5 @@ Exampple plot for parameters num_epochs=400,min_val =0.00001,max_val=0.0005
 [Cameron R. Wolfe](https://github.com/wolfecameron)
 
 ## Reference
-[1] Chen, John, Cameron Wolfe, and Tasos Kyrillidis. “REX: Revisiting Budgeted Training with an Improved Schedule.” Proceedings of Machine Learning and Systems 4 (2022): 64–76.
-https://arxiv.org/abs/2107.04197
+[1] Chen, John, Cameron Wolfe, and Tasos Kyrillidis. [“REX: Revisiting Budgeted Training with an Improved Schedule.”](https://arxiv.org/abs/2107.04197) Proceedings of Machine Learning and Systems 4 (2022): 64–76.
+
