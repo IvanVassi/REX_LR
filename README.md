@@ -1,6 +1,6 @@
 # REX_LR learning rate scheduler
 
-Very simple REX learning rate scheduler based on paper “REX: Revisiting Budgeted Training with an Improved Schedule" [1].
+Very simple REX learning rate scheduler implementation based on paper “REX: Revisiting Budgeted Training with an Improved Schedule" [1].
 
 Usage 
 ```
