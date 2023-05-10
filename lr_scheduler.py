@@ -8,7 +8,7 @@ class REX_LR(torch.optim.lr_scheduler._LRScheduler):
         if  not self.min_val <= self.max_val:
             raise ValueError('Value of "min_val" should be less '
                              ' than value of "max_val". Got min_val='+str(min_val)+' and max_val='+str(max_val))
-        assert self.min_val <= self.max_val
+        
 
         super(REX_LR, self).__init__(optimizer, last_epoch)
 
